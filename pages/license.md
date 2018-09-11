@@ -16,7 +16,7 @@ We have copied and adapted most of their
 
 ## Instructional Material
 
-All CodeRefinery instructional material is made available under the
+This PDC instructional material is made available under the
 [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/).
 The following is a human-readable summary of (and not a substitute for)
 the [full legal text of the CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
@@ -30,8 +30,8 @@ for any purpose, even commercially. The licensor cannot revoke these freedoms as
 
 - **Attribution** - You must give appropriate credit
   (mentioning that your work is derived from work that is Copyright
-  (c) CodeRefinery and, where practical, linking to
-  http://coderefinery.org), provide
+  (c) PDC Center for High Performance Computing and, where practical, linking to
+  https://www.pdc.kth.se/), provide
   a [link to the license](https://creativecommons.org/licenses/by-sa/4.0/),
   and indicate if changes were made. You may do so in any
   reasonable manner, but not in any way that suggests the licensor
@@ -55,7 +55,7 @@ With the understanding that:
 ## Software
 
 Except where otherwise noted, the example programs and other software provided
-by CodeRefinery are made available under the
+by PDC are made available under the
 [OSI](http://opensource.org)-approved [MIT
 license](http://opensource.org/licenses/mit-license.html):
 
